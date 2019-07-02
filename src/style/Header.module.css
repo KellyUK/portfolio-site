@@ -1,0 +1,25 @@
+.navBar {
+  margin: 0px;
+  display: block;
+  background-color: grey;
+  padding: 1em;
+  overflow: hidden;
+  font-family: "Raleway", sans-serif;
+}
+
+.navButton {
+  background-color: grey;
+  border: none;
+  color: white;
+  font-size: 100%;
+  float: right;
+}
+
+.navButtonName {
+  background-color: grey;
+  border: none;
+  color: white;
+  font-size: 100%;
+  display: block;
+  float: left;
+}
