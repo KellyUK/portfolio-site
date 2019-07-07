@@ -1,0 +1,40 @@
+.homeBody {
+  margin: 0px auto;
+  background-color: #ea4c89;
+  color: white;
+  height: 100%;
+  padding-bottom: 6em;
+}
+
+img {
+  width: 20%;
+}
+.nameHeader {
+  color: white;
+}
+
+.techHeader {
+  color: white;
+}
+
+.info {
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+}
+
+.moreAboutMe h2 {
+  color: white;
+}
+
+.moreAboutMe h2:hover {
+  text-decoration: underline;
+}
+@media only screen and (max-width: 400px) {
+  img {
+    width: 40%;
+  }
+  .info {
+    text-align: left;
+  }
+}
